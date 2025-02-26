@@ -14,5 +14,5 @@
 - link 
 
 # photos & links
-## click phpto & wathch video + more adults hot contents
+## click photo & wathch video + more adults hot contents
 - link
