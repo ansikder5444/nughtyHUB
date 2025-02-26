@@ -1,0 +1,14 @@
+
+#header #header-menu {
+	bottom: 7px;
+	right: 5px;
+}
+
+#header #header-menu ul {
+	float: right;
+}
+
+#header #header-menu ul li {
+	margin-left: 5px;
+	margin-right: 0;
+}
