@@ -1,4 +1,4 @@
-                                                      # nughty.github.io
+                                                      # nughtyHUB
 
 ## projects
 ### projects 1
@@ -32,13 +32,13 @@
 # click now watch
 # Template Name    : NUGHIITY HUB
 
-## Template Link    : https://github.com/ansikder5444/nughty.github.io/blob/a8736290c99277c207616c2b649c9bf39b135432/personal-portfolio-html-template.jpg
+## Template Link    : https://github.com/ansikder5444/nughtyHUB/blob/a8736290c99277c207616c2b649c9bf39b135432/personal-portfolio-html-template.jpg
 
-# Template License : https://github.com/ansikder5444/nughty.github.io/blob/7109b9691f4f67dda51e0d271a71d88988725501/LICENSE.txt
+# Template License : https://github.com/ansikder5444/nughty.githubHUB/blob/7109b9691f4f67dda51e0d271a71d88988725501/LICENSE.txt
 
 ## Template Author  : HTML code by ansikder
 
-# Author Website   : https://github.com/ansikder5444/nughty.github.io
+# Author Website   : https://github.com/ansikder5444/nughtyHUB
 
 
 
