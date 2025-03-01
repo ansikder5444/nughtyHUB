@@ -1,1 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /private/
+Allow: /public/
+Sitemap: https://ansikder5444.github.io/nughtyHUB/sitemap.xml
 
