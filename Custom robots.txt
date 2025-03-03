@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /private/
+Allow: /public/
+Sitemap: https://dailyblackdream.blogspot.com/sitemap.xml
